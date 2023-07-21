@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>link pertama fachri</title>
   <style>
-    body {
+    * {
       margin: 0;
       padding: 0;
     }
